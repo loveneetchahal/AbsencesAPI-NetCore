@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbsencesAPI", "AbsencesAPI\AbsencesAPI.csproj", "{1FC48E3E-779D-4310-977D-75CC3C951129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsencesAPI.Business", "AbsencesAPI.Business\AbsencesAPI.Business.csproj", "{6AC77C27-4C04-4387-B868-B9E24B479365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsencesAPI.Common", "AbsencesAPI.Common\AbsencesAPI.Common.csproj", "{F60F7FB2-A2F1-47D9-9742-47C633DFD927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsencesAPI.Infrastructure", "AbsencesAPI.Infrastructure\AbsencesAPI.Infrastructure.csproj", "{7B7EF966-6810-474E-A976-85CEFDB609DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC48E3E-779D-4310-977D-75CC3C951129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC48E3E-779D-4310-977D-75CC3C951129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC48E3E-779D-4310-977D-75CC3C951129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC48E3E-779D-4310-977D-75CC3C951129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC77C27-4C04-4387-B868-B9E24B479365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC77C27-4C04-4387-B868-B9E24B479365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC77C27-4C04-4387-B868-B9E24B479365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC77C27-4C04-4387-B868-B9E24B479365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60F7FB2-A2F1-47D9-9742-47C633DFD927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60F7FB2-A2F1-47D9-9742-47C633DFD927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60F7FB2-A2F1-47D9-9742-47C633DFD927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60F7FB2-A2F1-47D9-9742-47C633DFD927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7EF966-6810-474E-A976-85CEFDB609DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7EF966-6810-474E-A976-85CEFDB609DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7EF966-6810-474E-A976-85CEFDB609DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7EF966-6810-474E-A976-85CEFDB609DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E58FB26D-8262-4D48-AA41-8AC3AD1A9547}
+	EndGlobalSection
+EndGlobal
